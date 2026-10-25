@@ -5,7 +5,7 @@ title: AUHD Official Encyclopedia
 
 # جامعة آزال للتنمية البشرية | AUHD Encyclopedia
 
-![Official AUHD logo](assets/logo.png)
+![Official AUHD logo](https://www.auhd.edu.ye/images/Azal_Logo.svg)
 
 **نُمكّن الإنسان... ونُثري المعرفة... ونصنع المستقبل**
 
