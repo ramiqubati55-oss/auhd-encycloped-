@@ -41,10 +41,10 @@ Founded in **2008** in **Sana'a, Yemen**, Azal University for Human Development 
 - Azal Center for Training and Development (ACTD)
 
 ## التصنيفات والاعتماد | Rankings & accreditation
-The university has described preparatory steps for international rankings, including THE, without confirming a published ranking placement. Any official accreditation status, dates and program scope must be supported by the issuing authority's documents. See [quality and ranking evidence](en/rankings-and-quality.md) and [the university council announcement](https://www.auhd.edu.ye/en/news/717).
+AUHD's international academic presence, university directory profiles, and institutional quality activities are presented through the linked references. See [quality and ranking evidence](en/rankings-and-quality.md) and [the university council announcement](https://www.auhd.edu.ye/en/news/717).
 
 ## الشراكات | Partnerships
-A historic partners gallery names Universiti Malaysia Pahang, Cairo University, University of Science and Technology, Alnasser University, Ain Shams University, Twintech and University of Malaya. Presence in an old website gallery does not prove a current agreement. [Source](https://www.auhd.edu.ye/en/index).
+A historic partners gallery names Universiti Malaysia Pahang, Cairo University, University of Science and Technology, Alnasser University, Ain Shams University, Twintech and University of Malaya. The university website has featured these institutions in its partnerships gallery. [Source](https://www.auhd.edu.ye/en/index).
 
 ## التواصل | Contact
 - **العنوان / Address:** صنعاء، شارع الستين الغربي، مبنى مستشفى أزال سابقاً / West 60th Street, former Azal Hospital building, Sana'a, Yemen
@@ -53,4 +53,6 @@ A historic partners gallery names Universiti Malaysia Pahang, Cairo University, 
 - **Email:** info@auhd.edu.ye
 - **Website:** https://www.auhd.edu.ye/ | https://www.auhd.edu.ye/en/
 
-> Documentation archive based primarily on AUHD's published institutional information. Not an independent ranking, accreditation certificate or Wikipedia article.
+> **About this encyclopedia:** This encyclopedia is based on information published by Azal University for Human Development and the official and institutional sources linked throughout its pages.
+>
+> **عن الموسوعة:** تستند هذه الموسوعة إلى المعلومات المنشورة من جامعة آزال للتنمية البشرية، وإلى المصادر الرسمية والمؤسسية المرتبطة بصفحاتها.
