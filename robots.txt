@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ramiqubati55-oss.github.io/auhd-encycloped-/sitemap.xml
