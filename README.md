@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="620" alt="AUHD logo">
+<img src="https://www.auhd.edu.ye/images/Azal_Logo.svg" width="620" alt="AUHD logo">
 
 # جامعة آزال للتنمية البشرية
 # Azal University for Human Development (AUHD)
