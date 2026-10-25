@@ -12,4 +12,4 @@ Offers English-language, teacher development and professional communication trai
 Applied, professional and community training. [Student services](https://www.auhd.edu.ye/en/students/4).
 
 ## Historical partner gallery
-The legacy university website listed Universiti Malaysia Pahang, Cairo University, University of Science and Technology, Alnasser University, Ain Shams University, Twintech and University of Malaya. Listing alone is not evidence of a currently active agreement. [Source](https://www.auhd.edu.ye/en/index).
+The legacy university website listed Universiti Malaysia Pahang, Cairo University, University of Science and Technology, Alnasser University, Ain Shams University, Twintech and University of Malaya. The institutions are presented as featured in the university's published partners gallery. [Source](https://www.auhd.edu.ye/en/index).
